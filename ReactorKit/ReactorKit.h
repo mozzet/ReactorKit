@@ -2,8 +2,8 @@
 //  ReactorKit.h
 //  ReactorKit
 //
-//  Created by MOZZET PC on 2020/03/30.
-//  Copyright © 2020 Noondate. All rights reserved.
+//  Created by DeokJun Lee on 2020/10/08.
+//  Copyright © 2020 DeokJun Lee. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
